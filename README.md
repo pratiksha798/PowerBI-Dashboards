@@ -1,7 +1,7 @@
 📊 HR Attrition Analysis – Power BI Dashboard
 📌 Project Overview
 
-This project analyzes employee attrition trends using the IBM HR Analytics dataset. The objective was to identify key drivers influencing employee turnover and present insights using interactive Power BI dashboards.
+This project analyzes employee attrition trends using the HR Analytics dataset. The objective was to identify key drivers influencing employee turnover and present insights using interactive Power BI dashboards.
 
 🗂 Dashboard Structure
 🔹 Page 1 – Employee Behavior & Satisfaction
